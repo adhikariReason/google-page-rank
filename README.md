@@ -1,10 +1,6 @@
 ## Reason Adhikari
 ## Custom Beam Java Program that uses Google page ranking algorithm to rank subset of custom pages.
 
-#### Project Main Repo: [Team Main Repo](https://github.com/washingdone/big-data-project")
-#### Adhikari's project wiki page: [Adhikari - Wiki Page](https://github.com/washingdone/big-data-project/wiki/Reason's-Comments")
-#### Link To My Folder(Workspace): [adhikari - directory](https://github.com/washingdone/big-data-project/tree/main/adhikari")
-
 ## Description
 The program assigns page ranks to each page in custom pages inside folder "web04". This is done in three steps (jobs) and each estep has a mapper and reducer. 
 * Job1
